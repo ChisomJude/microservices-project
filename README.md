@@ -1,4 +1,6 @@
-[![CircleCI](https://circleci.com/github/ChisomJude/microservices-project.svg?style=svg&circle-token=f46cfd103a5d235e13ab50df39b6063de4f0fcc6)](https://app.circleci.com/pipelines/github/ChisomJude/microservices-project)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/chisomjude/microservices-project/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/chisomjude/microservices-project/tree/master)
+
 
 ## Project Overview
 
