@@ -1,0 +1,25 @@
+<paste log output from Kubernetes-mediated prediction, here>
+
+NAME          READY   STATUS             RESTARTS   AGE
+project4      1/1     Running            0          3h
+udaproject4   0/1     ImagePullBackOff   0          3h4m
+
+azureuser@v8s-vm:~$ kubectl port-forward project4 --address 0.0.0.0 8000:80
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
