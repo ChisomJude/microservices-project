@@ -1,5 +1,5 @@
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ChisomJude/microservices-project/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ChisomJude/microservices-project/tree/master)
+[![PASSED](https://dl.circleci.com/status-badge/img/gh/ChisomJude/microservices-project/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ChisomJude/microservices-project/tree/master)
 
 
 ## Project Overview
